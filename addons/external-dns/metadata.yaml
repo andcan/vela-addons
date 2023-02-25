@@ -1,0 +1,9 @@
+dependencies:
+  - name: fluxcd
+description: External DNS addon for KubeVela.
+icon: ''
+invisible: false
+name: external-dns
+tags:
+  - DNS
+version: 6.14.0
